@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejasshah01
 - 👀 I’m interested in python-Django
-- 🌱 I’m currently learning python-Django.
+- Currenty Working on Implifie Technologies So I have Total 1.10 Years Of Experience in Python -Django and Django RestApis
 - 📫 How to reach me please email Tejasshah614@gmail.com
 
 <!---
